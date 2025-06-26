@@ -6,7 +6,7 @@
 📫 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/veeranjaneyulu-v/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/veera5423)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange)](https://veera5423.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange)](https://veera5423.github.io/my-portfolio/)
 
 ## 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -21,7 +21,7 @@
 |------|-------------|------|------|
 | **VeeraVox** | Real-time chat app | [Live](#) | [Repo](https://github.com/veera5423/veeravox) |
 | **Weather App** | Forecast weather by city | [Live](https://veera5423.github.io/weather-app) | [Repo](https://github.com/veera5423/weather-app) |
-| **To-Do List** | Daily task tracker | [Live](https://veera5423.github.io/todo-app) | [Repo](https://github.com/veera5423/todo-app) |
+| **To-Do List** | Daily task tracker | [Live](https://veera5423.github.io/task-management/) | [Repo](https://github.com/veera5423/todo-app) |
 
 ## 📄 Resume & Certifications
 📄 [Download Resume](#)  
