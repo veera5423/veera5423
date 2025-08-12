@@ -53,7 +53,7 @@
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=veera5423&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veera5423&layout=compact&theme=radical)  
-![Veeranjaneyulu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veera5423&show_icons=true&theme=radical)
+
 
 ---
 
