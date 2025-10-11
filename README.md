@@ -42,7 +42,7 @@
 
 ## 📄 Resume & Certifications
 📄 [View Resume & Portfolio](https://veera5423.github.io/my-portfolio/)  
-🎖️ AWS, IBM, Frontend Certifications (Details in Portfolio)
+🎖️ AWS, MongoDB, IBM, Frontend Certifications (Details in Portfolio)
 
 ---
 
