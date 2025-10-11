@@ -33,6 +33,8 @@
 | **VeeraVox** | Real-time chat application | [Live](#) | [Repo](https://github.com/veera5423/veeravox) |
 | **Weather App** | Forecast weather by city | [Live](https://veera5423.github.io/weather-app) | [Repo](https://github.com/veera5423/weather-app) |
 | **To-Do List** | Daily task tracker | [Live](https://veera5423.github.io/task-management/) | [Repo](https://github.com/veera5423/todo-app) |
+|**FlightFinder** | Full-stack flight booking system | [Live](https://flightfinder-1-2g44.onrender.com) | [Repo](https://github.com/veera5423/FlightFinder) |
+| **CLeanTech** | AI powered waste segregation System | [live](https://cleantech-ai.onrender.com/) | [Repo](https://github.com/veera5423/CleanTech-AI) |
 
 > 🗂 Explore more projects on my [GitHub](https://github.com/veera5423)
 
