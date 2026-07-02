@@ -73,6 +73,8 @@
 | **📝 To-Do List** | Minimalist task tracker with local storage | [Live](https://veera5423.github.io/task-management/) | [Repo](https://github.com/veera5423/todo-app) |
 | **✈️ FlightFinder** | AI-based flight booking and recommendation system | [Live](https://flightfinder-1-2g44.onrender.com) | [Repo](https://github.com/veera5423/FlightFinder) |
 | **♻️ CleanTech AI** | AI-powered waste segregation system using CNN models | [Live](https://cleantech-ai.onrender.com/) | [Repo](https://github.com/veera5423/CleanTech-AI) |
+| **🚀 QuickSpark** | AI-powered career development platform featuring PDF Summarizer, Mock Test Generator, Resume Analyzer, AI Mock Interviewer, Public Library, and Career Explorer | [Beta](https://quick-spark.vercel.app/) | Private Repo (Currently in Development) |
+
 
 > 🪄 *Each project is a blend of innovation, design, and intelligence.*
 
